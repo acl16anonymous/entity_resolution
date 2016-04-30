@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -Wall -O2  -fPIC CMakeFiles/test_feature.dir/test_feature.cpp.o  -o ../../bin/test_feature -rdynamic ../../lib/libutillib.a 

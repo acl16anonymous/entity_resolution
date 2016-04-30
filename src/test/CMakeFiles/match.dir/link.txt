@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -Wall -O2  -fPIC CMakeFiles/match.dir/match.cpp.o  -o ../../bin/match -rdynamic 

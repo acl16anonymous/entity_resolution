@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libutillib.a  CMakeFiles/utillib.dir/align.cpp.o CMakeFiles/utillib.dir/nw.cpp.o
+/usr/bin/ranlib ../../lib/libutillib.a

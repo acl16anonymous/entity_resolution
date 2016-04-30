@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dongxiang/Project/entity/src/util/align.cpp
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+align.h
+/home/dongxiang/Project/entity/src/util/align.h
+
+/home/dongxiang/Project/entity/src/util/align.h
+
+/home/dongxiang/Project/entity/src/util/nw.cpp
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+limits.h
+-
+needleman_wunsch.h
+/home/dongxiang/Project/entity/src/util/needleman_wunsch.h
+
