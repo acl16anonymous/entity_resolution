@@ -1,1 +1,0 @@
-/usr/bin/c++    -g -Wall -O2  -fPIC CMakeFiles/graph.dir/graph.cpp.o  -o ../../bin/graph -rdynamic 

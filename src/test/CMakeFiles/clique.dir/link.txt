@@ -1,1 +1,0 @@
-/usr/bin/c++    -g -Wall -O2   CMakeFiles/clique.dir/clique.cpp.o  -o ../../bin/clique -rdynamic 

@@ -1,1 +1,0 @@
-/usr/bin/c++    -g -Wall -O2   CMakeFiles/paper.dir/paper.cpp.o  -o ../../bin/paper -rdynamic 
